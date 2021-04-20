@@ -29,4 +29,5 @@
         <asp:Button ID="bt_Next" runat="server" Height="30px" Text="送出" Width="80px" PostBackUrl="~/Sample1Com.aspx" />
     </form>
 </body>
+
 </html>
